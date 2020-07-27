@@ -26,9 +26,6 @@ body {
   flex-direction: column;
 }
 
-.stair-1 {
-  align-self: flex-start;
-}
 .stair-2 {
   align-self: center;
 }
