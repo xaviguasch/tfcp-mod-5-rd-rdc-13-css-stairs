@@ -20,3 +20,18 @@ body {
 /* ==========================
 	Write your solution here!
    ========================== */
+
+.stairs {
+  display: flex;
+  flex-direction: column;
+}
+
+.stair-1 {
+  align-self: flex-start;
+}
+.stair-2 {
+  align-self: center;
+}
+.stair-3 {
+  align-self: flex-end;
+}
